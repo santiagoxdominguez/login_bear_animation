@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984664064458",
+    "project_id": "login-oso-santi-f803e",
+    "storage_bucket": "login-oso-santi-f803e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984664064458:android:6c8958de216ca9328c0f33",
+        "android_client_info": {
+          "package_name": "com.example.login_bear_animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGFt_WL_bAg7Hn8_ddTI350gwqCtsq3X8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
